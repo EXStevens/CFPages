@@ -1,0 +1,10 @@
+{
+  "name": "CFPages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CStevens",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
